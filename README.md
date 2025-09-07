@@ -25,13 +25,11 @@ Weeabooify is a powerful theme engine that allows you to easily customize your A
 > You can check all features [here](FEATURES-AE.md)
 
 
-
 ## 🧰 Requirements
 - Android 12+ (AOSP-based ROMs only).  
-- [Magisk](https://github.com/topjohnwu/Magisk) (recommended) or [KernelSU](https://github.com/tiann/KernelSU).  
+- [Magisk](https://github.com/topjohnwu/Magisk) or [KernelSU](https://github.com/tiann/KernelSU) (recommended).  
 - [LSPosed](https://github.com/JingMatrix/LSPosed) *(optionally with [ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext/releases/latest) if required).*  
 - Custom recovery with decryption support *(recommended as a fallback in case of bootloop).*  
-
 
 
 ## 🛠️ Installation
