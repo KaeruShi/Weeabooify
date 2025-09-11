@@ -27,16 +27,15 @@ Weeabooify is a powerful theme engine that allows you to easily customize your A
 
 ## 🧰 Requirements
 - Android 12+ (AOSP-based ROMs only).  
-- [Magisk](https://github.com/topjohnwu/Magisk) or [KernelSU](https://github.com/tiann/KernelSU) (recommended).  
+- [Magisk](https://github.com/topjohnwu/Magisk) / [KernelSU](https://github.com/tiann/KernelSU) / [SukiSU](https://github.com/SukiSU-Ultra/SukiSU-Ultra) / [Apatch](https://github.com/bmax121/APatch).  
 - [LSPosed](https://github.com/JingMatrix/LSPosed) *(optionally with [ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext/releases/latest) if required).*  
 - Custom recovery with decryption support *(recommended as a fallback in case of bootloop).*  
 
 
 ## 🛠️ Installation
 1. Install the **Weeabooify** app.  
-2. Open **LSPosed** and enable Weeabooify.  
-3. Select **SystemUI** and **Framework**.  
-4. Go back to module list → long press **Weeabooify** → select **Re-optimize**.  
+2. Open **LSPosed** and reoptimize **Weeabooify**.  
+3. Enable **Weeabooify** and Select **SystemUI** and **Framework**.  
 5. Open **Weeabooify**, grant all permissions, then log in to your account.  
 6. Wait for the installation to finish → reboot your device → enjoy 🎉  
 
