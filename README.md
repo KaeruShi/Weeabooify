@@ -57,7 +57,6 @@ Weeabooify is available for a **one-time purchase of $5**.
 Support development and unlock all features via the following platforms:
 
 - [Ko-Fi](https://ko-fi.com/s/52b3fa4d26)  
-- [Patreon](https://www.patreon.com/KaeruShi/shop/weeabooify-18447?source=storefront)  
 - [PayPal](https://paypal.me/kaerushi)  
 - e-Wallet & Bank transfer *(contact [@KaeruShi](https://t.me/kaerushi))*  
 
