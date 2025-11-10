@@ -29,8 +29,10 @@ Weeabooify is a powerful theme engine that allows you to easily customize your A
 - Android 12 - 16 Beta (AOSP-based ROMs only).  
 - [Magisk](https://github.com/topjohnwu/Magisk) / [KernelSU](https://github.com/tiann/KernelSU) / [SukiSU](https://github.com/SukiSU-Ultra/SukiSU-Ultra) / [Apatch](https://github.com/bmax121/APatch).  
 - [LSPosed](https://github.com/JingMatrix/LSPosed) *(optionally with [ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext/releases/latest) if required).*  
-- Custom recovery with decryption support *(recommended as a fallback in case of bootloop).*  
-
+- Custom recovery with decryption support *(recommended as a fallback in case of bootloop).*
+> [!IMPORTANT]
+> On Android 16, only **lockscreen customization, icon pack, and notification background** features are supported.  
+> Due to recent framework changes, QS Header styles and QS Tile Shapes are temporarily unavailable.
 
 ## 🛠️ Installation
 1. Install the **Weeabooify** app.  
@@ -41,6 +43,10 @@ Weeabooify is a powerful theme engine that allows you to easily customize your A
 
 > [!Note]  
 > For KernelSU users: root access must be manually enabled via the **KernelSU** app.
+
+## ⚙️ How It Works
+Weeabooify works by dynamically hooking and modifying Android’s SystemUI and Framework components at runtime — powered by the LSPosed engine.
+This allows seamless theming and interface customization without modifying system files or flashing heavy overlays.
 
 ## 🖼️ Preview
 For a detailed look at the **Weeabooify** app interface and features, please visit the [Preview Gallery](PREVIEW.md).  
@@ -64,37 +70,28 @@ Support development and unlock all features via the following platforms:
 
 <details>
 <summary>📱 Is my device supported?</summary>
-
 - Weeabooify supports **Pixel devices** and **AOSP-based custom ROMs**.
-- Android 16 Beta currently only support lockscreen customization
-- Not supported: Android 16 QPR and OEM ROMs such as MIUI, OneUI, OxygenOS, ColorOS, iOS, etc.  
-
+- Not supported: OEM ROMs such as MIUI, OneUI, OxygenOS, ColorOS, iOS, etc.  
 </details>
 
 <details>
 <summary>🔨 How to fix bootloop/BSOD?</summary>
-
 - Boot into **Safe Mode** or  
 - Delete the Weeabooify module from `data/adb/modules/` via custom recovery.  
-
 </details>
 
 <details>
 <summary>🌐 What is AE?</summary>
-
 - **AE (Anti-Entropy)** is one of the Weeabooify variants.  
 - Two available variants:  
   - **Anti-Entropy** → for Android 12+  
   - **Schicksal** → for Android 10 (Substratum)  
 - Each variant is sold separately.  
-
 </details>
 
 <details>
 <summary>💵 I already paid, what should I do next?</summary>
-
 - Contact me on Telegram: [t.me/kaerushi](https://t.me/kaerushi)  
 - Send your **payment screenshot** as proof  
 - You will then receive installation access/instructions  
-
 </details>
