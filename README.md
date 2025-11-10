@@ -70,18 +70,21 @@ Support development and unlock all features via the following platforms:
 
 <details>
 <summary>📱 Is my device supported?</summary>
+
 - Weeabooify supports **Pixel devices** and **AOSP-based custom ROMs**.
 - Not supported: OEM ROMs such as MIUI, OneUI, OxygenOS, ColorOS, iOS, etc.  
 </details>
 
 <details>
 <summary>🔨 How to fix bootloop/BSOD?</summary>
+
 - Boot into **Safe Mode** or  
 - Delete the Weeabooify module from `data/adb/modules/` via custom recovery.  
 </details>
 
 <details>
 <summary>🌐 What is AE?</summary>
+
 - **AE (Anti-Entropy)** is one of the Weeabooify variants.  
 - Two available variants:  
   - **Anti-Entropy** → for Android 12+  
@@ -91,6 +94,7 @@ Support development and unlock all features via the following platforms:
 
 <details>
 <summary>💵 I already paid, what should I do next?</summary>
+
 - Contact me on Telegram: [t.me/kaerushi](https://t.me/kaerushi)  
 - Send your **payment screenshot** as proof  
 - You will then receive installation access/instructions  
