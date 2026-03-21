@@ -26,12 +26,12 @@ Weeabooify is a powerful theme engine that allows you to easily customize your A
 
 
 ## 🧰 Requirements
-- Android 12 - 16 Beta (AOSP-based ROMs only).  
+- Android 12 - 16 QPR0 (AOSP-based ROMs only).  
 - [Magisk](https://github.com/topjohnwu/Magisk) / [KernelSU](https://github.com/tiann/KernelSU) / [SukiSU](https://github.com/SukiSU-Ultra/SukiSU-Ultra) / [Apatch](https://github.com/bmax121/APatch).  
 - [LSPosed](https://github.com/JingMatrix/LSPosed) *(optionally with [ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext/releases/latest) if required).*  
 - Custom recovery with decryption support *(recommended as a fallback in case of bootloop).*
 > [!IMPORTANT]
-> On Android 16, only **lockscreen customization, icon pack, and notification background** features are supported.  
+> On Android 16 QPR0, only **lockscreen customization, icon pack, and notification background** features are supported.  
 > Due to recent framework changes, QS Header styles and QS Tile Shapes are temporarily unavailable.
 
 ## 🛠️ Installation
