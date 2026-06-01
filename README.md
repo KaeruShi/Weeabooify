@@ -57,7 +57,9 @@ The gallery provides a comprehensive set of screenshots highlighting the app’s
 Special thanks to:
 - [Android Open Source Project (AOSP)](https://source.android.com) — Android source code  
 - [Substratum](https://github.com/substratum/substratum) — Overlay engine references  
-- [@DrDisagree](https://github.com/Mahmud0808) — Backend implementation support  
+- [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI) — An efficient Hook API and Xposed Module solution built in Kotlin
+- [KavaRef](https://github.com/HighCapable/KavaRef) — A modernizing Java Reflection with Kotlin
+- More inside app
 
 ## ⬇️ Download
 Weeabooify is available in two versions:
