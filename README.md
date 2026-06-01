@@ -17,22 +17,22 @@ Weeabooify is a powerful theme engine that allows you to easily customize your A
 
 ## ✨ Features
 - Customize QS panel  
-- Custom lockscreen interface  
+- Customize lockscreen interface  
 - Icon packs, QS tile shapes, and notification backgrounds  
-- SystemUI tweaks  
+- SystemUI tweaks
+- Settings apk tweaks
 - And many more...  
 > [!Note]
 > You can check all features [here](FEATURES-AE.md)
 
 
 ## 🧰 Requirements
-- Android 12 - 16 QPR0 (AOSP-based ROMs only).  
+- Android 12 - 16
 - [Magisk](https://github.com/topjohnwu/Magisk) / [KernelSU](https://github.com/tiann/KernelSU) / [SukiSU](https://github.com/SukiSU-Ultra/SukiSU-Ultra) / [Apatch](https://github.com/bmax121/APatch).  
 - [LSPosed](https://github.com/JingMatrix/LSPosed) *(optionally with [ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext/releases/latest) if required).*  
 - Custom recovery with decryption support *(recommended as a fallback in case of bootloop).*
 > [!IMPORTANT]
-> On Android 16 QPR0, only **lockscreen customization, icon pack, and notification background** features are supported.  
-> Due to recent framework changes, QS Header styles and QS Tile Shapes are temporarily unavailable.
+> If you're on A15 or below use version 5.6 instead. 
 
 ## 🛠️ Installation
 1. Install the **Weeabooify** app.  
