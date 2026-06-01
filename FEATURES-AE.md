@@ -9,12 +9,14 @@
 - Pixel variant available *(black QS panel)*
 - Custom text, image, background & color
 - Adjust header image height & fade
-- Adjust margin (portrait & landscape)
+- Adjust padding (portrait & landscape)
 
 ### 🔒 Lockscreen
 - Custom clock styles & font
 - Custom text, image, background & color
 - Custom date format
+- Custom widgets
+- Depth Wallpaper
 - Adjust image height
 - Adjust clock margin
 
