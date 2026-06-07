@@ -1,0 +1,13 @@
+{
+  "name": "weeabooify-docs",
+  "version": "1.0.0",
+  "description": "Documentation for Weeabooify - Beautiful & Aesthetic Theme Engine for Android",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
