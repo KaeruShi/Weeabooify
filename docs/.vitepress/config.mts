@@ -1,8 +1,8 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
+  base: '/Weeabooify/',
   title: "Weeabooify",
-  base: "/Weeabooify/",
   description: "🌸 Beautiful & Aesthetic Theme Engine for Android",
   lang: "en-US",
 
