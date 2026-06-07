@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 
 export default defineConfig({
   title: "Weeabooify",
+  base: "/Weeabooify/",
   description: "🌸 Beautiful & Aesthetic Theme Engine for Android",
   lang: "en-US",
 
