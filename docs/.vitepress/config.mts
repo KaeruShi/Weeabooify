@@ -9,7 +9,7 @@ export default defineConfig({
   head: [
     [
       "link",
-      { rel: "icon", href: "/weeabooify_icon.svg", type: "image/svg+xml" },
+      { rel: "icon", href: "/Weeabooify/weeabooify_icon.svg", type: "image/svg+xml" },
     ],
     ["meta", { name: "theme-color", content: "#e8a4c8" }],
     ["meta", { property: "og:title", content: "Weeabooify Docs" }],
