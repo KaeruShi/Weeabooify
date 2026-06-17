@@ -78,8 +78,8 @@ To purchase the full version, use one of the methods below:
 <details>
 <summary>📱 Is my device supported?</summary>
 
-- Weeabooify supports **Pixel devices** and **AOSP-based custom ROMs**.
-- Not supported: OEM ROMs such as MIUI, OneUI, OxygenOS, ColorOS, iOS, etc.  
+- Weeabooify is primarily designed for **Pixel devices** and **AOSP-based custom ROMs**.
+- Several features have been reported to work on **MIUI/HyperOS** and other OEM ROMs, but compatibility is not guaranteed.
 </details>
 
 <details>
