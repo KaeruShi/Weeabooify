@@ -40,11 +40,11 @@ features:
     details: Hooks into SystemUI, Settings and Framework at runtime via LSPosed — no system file modification or heavy overlays required.
 ---
 
-<div class="home-notice">
+<!-- <div class="home-notice">
   <div class="home-notice-inner">
     <p>⚠️ <strong>Weeabooify supports Pixel and AOSP-based custom ROMs only.</strong> OEM ROMs (MIUI, OneUI, OxygenOS, ColorOS) are not supported.</p>
   </div>
-</div>
+</div> -->
 
 <style>
 .home-notice {

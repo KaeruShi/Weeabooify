@@ -69,6 +69,7 @@ export default defineConfig({
         {
           text: "💡 More",
           items: [
+            { text: "Multi-Device", link: "/guide/multi-device" },
             { text: "FAQ", link: "/guide/faq" },
             { text: "Troubleshooting", link: "/guide/troubleshooting" },
             { text: "Credits", link: "/guide/credits" },

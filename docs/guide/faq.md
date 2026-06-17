@@ -3,15 +3,20 @@
 Frequently asked questions about Weeabooify.
 
 ## Is my device supported?
-
-Weeabooify supports **Pixel devices** and **AOSP-based custom ROMs**.
-
-The following are **not supported**:
-- MIUI / HyperOS (Xiaomi)
+ 
+Weeabooify officially supports **Pixel devices** and **AOSP-based custom ROMs**.
+ 
+Some users have reported that Weeabooify works partially on OEM ROMs like **MIUI / HyperOS**, but only a subset of features may function correctly — full compatibility is not guaranteed and these ROMs are not officially supported.
+ 
+The following are **not officially supported**:
+- MIUI / HyperOS (Xiaomi) — partial functionality reported by some users
 - OneUI (Samsung)
-- OxygenOS (OnePlus)
+- OxygenOS (OnePlus) — maybe partial functionality
 - ColorOS (OPPO/Realme)
 - iOS
+::: warning
+If you are on an OEM ROM and something does not work, report it to the [support group](https://t.me/weeabooifychat) with your ROM name and Android version. Do not purchase the Full Version expecting complete compatibility on unsupported ROMs.
+:::
 
 ## What is Anti-Entropy (AE)?
 
